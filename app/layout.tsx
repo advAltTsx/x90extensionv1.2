@@ -6,7 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Room from "./Room";
 
 export const metadata = {
-  title: "$Draw",
+  title: "$Draw/Team/Virtuals",
   description:
     "For team.",
     icons: {
